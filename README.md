@@ -8,3 +8,7 @@ For more information Visit :https://www.jakirniloy.me/2021/05/cgpa-calculator.ht
 This app is now available in the play store.
 Download link :
 https://play.google.com/store/apps/details?id=com.chowdhury_elab.cgpa_calculator
+
+
+
+![4168785](https://user-images.githubusercontent.com/48614476/119861141-e0788280-bf38-11eb-882d-283d5962c986.jpg)
